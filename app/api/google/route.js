@@ -11,7 +11,7 @@ export async function POST(request) {
     const res = await axios.post(url);
     if (res.data.success) {
       return NextResponse.json({
-        message: "Captcha verification success!!",
+        message: "Captcha verification success!!!",
         success: true,
       })
     };
