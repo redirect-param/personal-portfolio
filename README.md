@@ -162,7 +162,7 @@ pnpm --version  # or npm --version
 ### 1. Fork and Clone the Repository
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/developer-portfolio.git
+git clone https://github.com/redirect-param/personal-portfolio.git
 cd developer-portfolio
 ```
 
