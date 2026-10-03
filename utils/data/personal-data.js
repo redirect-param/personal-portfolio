@@ -7,7 +7,7 @@ export const personalData = {
   phone: '+254733488875',
   address: 'Central Kenya, Thika, Kiganjo - 01000 ',
   github: 'https://github.com/redirect-param',
-  facebook: 'https://www.facebook.com/Julius Mwangi/',
+  facebook: 'https://www.facebook.com/profile.php?id=61585524941814',
   linkedIn: 'https://www.linkedin.com/in/Julius Mwangi/',
   twitter: 'https://twitter.com/Julius Mwangi',
   stackOverflow: 'https://stackoverflow.com/users/16840768/julius-mwangi',
