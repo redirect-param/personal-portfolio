@@ -163,7 +163,7 @@ pnpm --version  # or npm --version
 
 ```bash
 git clone https://github.com/redirect-param/personal-portfolio.git
-cd developer-portfolio
+cd personal-portfolio
 ```
 
 ### 2. Install Dependencies
